@@ -1618,9 +1618,9 @@ jQuery(document).ready(function(){
     </a>
     <script>
       footmastamvan=new Date();thnmastamvan=footmastamvan.getFullYear();document.write(&quot; &#169; 2015-&quot;+thnmastamvan);
-    </script>. All Right Reserved. Design by. 
+    </script>. All Right Reserved. Share by. 
 <credits id='creditid'>  
-	<a class='jangan' href='https://mastamvan.blogspot.com' id='creditlink' title='Blog Mas Tamvan'>Blog Mas Tamvan</a>
+	<a class='jangan' href='https://www.cahplosok.my.id' id='creditlink' title='Blog Cahplosok'>Blog Cahplosok</a>
 </credits>
 </footer>
   <!-- footer wrapper end -->
